@@ -1,0 +1,5 @@
+[Eng]
+The program to stop the process using the file you need To start, enter the path to the file in the program, Then the program will show which process occupies the desired file and offer to stop it, the answer is no (n) will do nothing and close the program, the answer is yes (y) will complete the process occupying the desired file For better operation, run the program on behalf of the administrator To Me now I'm too lazy to make out the README and the program since it's new year and I'm writing this program lying under the tree. Happy New Year!
+
+[Ru]
+Программа для остановки процесса с помощью файла, который вам нужно запустить, введите путь к файлу в программе, затем программа покажет, какой процесс занимает нужный файл и предложит остановить его, ответ - нет (n) ничего не сделает и закроет программу, ответ - да (y) завершит процесс, заняв нужный файл, Для лучшей работы запустите программу от имени администратора, мне сейчас лень оформлять README и программу, так как сейчас новый год, и я пишу эту программу, лежа под елкой. С Новым Годом!
