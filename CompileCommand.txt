@@ -1,0 +1,1 @@
+pyinstaller iNetFix.py --onefile --hidden-import os --hidden-import platform
